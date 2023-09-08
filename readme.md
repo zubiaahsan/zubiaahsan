@@ -1,1 +1,1 @@
-<h1 style="text align: center;">Hi! I am Zubia Ahsan</h1>
+<h1 style="text-align: center;">Hi! I am Zubia Ahsan</h1>
