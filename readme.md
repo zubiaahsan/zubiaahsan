@@ -4,7 +4,7 @@
 <h2>My skills</h2>
 <ul>
   <li>MS Office</li>
-   <liHTML5</li>
+   <li>HTML5</li>
    <li>CSS</li>
    <li>Javascript</li>
    <li>Jquery</li>
